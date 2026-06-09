@@ -1,0 +1,9 @@
+campaign_name,sequence_step,variant,sent,opened,replied,positive_replies,meetings_booked,send_date
+Q2 Series B Outbound,1,A,400,176,37,14,4,2026-06-09
+Q2 Series B Outbound,2,A,364,113,15,5,2,2026-06-11
+Q2 Series B Outbound,3,A,349,66,7,2,1,2026-06-14
+Q2 Series B Outbound,1,B,400,168,41,18,7,2026-06-09
+Q2 Series B Outbound,2,B,359,101,17,7,3,2026-06-11
+Founder Cold - DevTools,1,V1,250,122,28,11,5,2026-06-12
+Founder Cold - DevTools,2,V1,222,74,9,3,1,2026-06-15
+Reactivation - Churned,1,V1,180,63,8,2,0,2026-06-16
